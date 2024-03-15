@@ -15,7 +15,7 @@
 ### Projects
 
 <a href="https://github.com/MangPofol/bookclub-server">
-    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=MangPofol&repo=bookclub-server&theme=gruvbox">
+    <img align="" width=390 src="https://github.com/Junbum-hub/ProPlat">
 </a>
 
 
