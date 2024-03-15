@@ -23,8 +23,8 @@
 </a> -->
  <!-- <br> -->
 <a href="https://github.com/FiveSensesApp/FiveSenses-server">
-    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=FiveSensesApp&repo=FiveSenses-server&theme=gruvbox"> -->
-</a>
+    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=FiveSensesApp&repo=FiveSenses-server&theme=gruvbox"> 
+</a> -->
 
 <br>
 <br>
