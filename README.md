@@ -17,14 +17,7 @@
 <a href="https://github.com/MangPofol/bookclub-server">
     <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=MangPofol&repo=bookclub-server&theme=gruvbox">
 </a>
-<!-- <br> 
- <a href="https://github.com/GC210GP/blood-donation-server">
-    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=GC210GP&repo=blood-donation-server&theme=gruvbox">
-</a> -->
- <!-- <br> -->
-<a href="https://github.com/FiveSensesApp/FiveSenses-server">
-    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=FiveSensesApp&repo=FiveSenses-server&theme=gruvbox"> 
-</a> -->
+
 
 <br>
 <br>
