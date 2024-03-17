@@ -4,7 +4,6 @@
 ## Backend Engineer Junbum Choi
 
     Hi, my name is Junbum!
-- Phone : 010-3851-4889
 
 - Email : junbumchoi0402@gmail.com
 
