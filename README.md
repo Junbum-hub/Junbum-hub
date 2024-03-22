@@ -1,7 +1,7 @@
 
 
 
-## Backend Engineer Junbum Choi
+## Backend Developer Junbum Choi
 
     Hi, my name is Junbum!
 
