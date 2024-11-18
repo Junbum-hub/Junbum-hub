@@ -13,7 +13,7 @@
 
 ### Projects
 
-<a href="https://github.com/Junbum-hub/ProPlat">
+<a href="https://github.com/SystemArchitecture-ProPlat/ProPlat">
     <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=Junbum-hub&repo=ProPlat&theme=gruvbox">
 </a>
 
