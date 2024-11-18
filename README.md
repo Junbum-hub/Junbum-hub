@@ -16,8 +16,8 @@
 <a href="https://github.com/Junbum-hub/ProPlat">
     <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=Junbum-hub&repo=ProPlat&theme=gruvbox">
 
-<a href="https://github.com/GO-GlobalOptimum/Geport-Spring-Backend">
-    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=Junbum-hub&repo=ProPlat&theme=gruvbox">
+<a href="https://github.com/Code-Crew-AdWeb">
+    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=Junbum-hub&repo=CodeCrew/backend&theme=gruvbox">
     
 </a>
 
