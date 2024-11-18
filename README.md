@@ -25,8 +25,9 @@
     <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=Junbum-hub&repo=Geport-Spring-Backend&theme=gruvbox&cache_seconds=1800">
 </a>
 
-
-
+<a href="https://github.com/KEA4th-Cruise/ParkingLotto_BE">
+    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=Junbum-hub&repo=ParkingLotto_BEd&theme=gruvbox&cache_seconds=1800">
+</a>
 
 
 
