@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://github.com/Code-Crew-AdWeb/Spring-BackEnd">
-    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=Junbum-hub&repo=Spring-BackEnd&theme=gruvbox">
+    <img align="" width=390 src="https://github-readme-stats.vercel.app/api/pin/?username=Junbum-hub&repo=Spring-BackEnd&theme=gruvbox&cache_seconds=1800">
 </a>
 
 
